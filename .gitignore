@@ -1,0 +1,9 @@
+*.class
+*.apk
+*.iml
+bin/
+gen/
+.settings/
+target
+.idea
+proguard/
